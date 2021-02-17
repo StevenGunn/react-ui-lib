@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Notes
+
+Semantic-ui-react:
+
+https://react.semantic-ui.com/usage
+
+```npm install semantic-ui-react```
+
+material-ui
+
+```npm install @material-ui/core```
+

@@ -1,0 +1,14 @@
+.head {
+  background-color: gray;
+  margin-top: auto;
+}
+
+.sidebar-semantic {
+  width: 100%;
+  height: 100vh;
+}
+
+.menu {
+  background-color: gray;
+  color: gray;
+}
